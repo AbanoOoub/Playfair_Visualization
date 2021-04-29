@@ -1,0 +1,8 @@
+C:\Users\hs\source\repos\Visualization\bin\Debug\Visualization.exe.config
+C:\Users\hs\source\repos\Visualization\bin\Debug\Visualization.exe
+C:\Users\hs\source\repos\Visualization\bin\Debug\Visualization.pdb
+C:\Users\hs\source\repos\Visualization\obj\Debug\Visualization.Form1.resources
+C:\Users\hs\source\repos\Visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\hs\source\repos\Visualization\obj\Debug\Visualization.csproj.GenerateResource.cache
+C:\Users\hs\source\repos\Visualization\obj\Debug\Visualization.exe
+C:\Users\hs\source\repos\Visualization\obj\Debug\Visualization.pdb
