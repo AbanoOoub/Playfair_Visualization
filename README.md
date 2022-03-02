@@ -15,4 +15,4 @@ Example: P.T = communication, Keyword = “playfairexample”
 ![3](https://user-images.githubusercontent.com/40705922/116628604-c22a6180-a94f-11eb-94bb-ba41974436ae.JPG)
 
 Example:
-![4] https://user-images.githubusercontent.com/40705922/156396281-3a477a16-d905-48df-a635-dace7a1c2c25.mp4
+https://user-images.githubusercontent.com/40705922/156396281-3a477a16-d905-48df-a635-dace7a1c2c25.mp4
